@@ -1,0 +1,10 @@
+<svg width="400" height="300" viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#f0f0f0" stroke="#ddd" stroke-width="2"/>
+  <text x="200" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#666">
+    Olai Software Website
+  </text>
+  <text x="200" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#999">
+    UX Design
+  </text>
+  <ellipse cx="200" cy="100" rx="40" ry="25" fill="#C73E1D" opacity="0.3"/>
+</svg>
